@@ -1,0 +1,32 @@
+
+h1.hello{
+	text-align: center;
+	color: white;
+	border-color: red;
+}
+img.logo{
+	display: block;
+	margin: auto;
+	height: 200;
+	width: 200;
+}
+body{
+	background-image: url("C:\Users\User\Downloads\webgif.gif");
+	background-color:#000;
+}
+button.bot1{
+	position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+.loader{
+	position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('images/pageLoader.gif') 50% 50% no-repeat rgb(249,249,249);
+    opacity: .8;
+}
