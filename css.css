@@ -15,13 +15,13 @@ body{
 	background-color:#000;
 }
 button.bot1{
-	position: absolute;
+    position: absolute;
     top: 8px;
     left: 16px;
     font-size: 18px;
 }
 .loader{
-	position: fixed;
+    position: fixed;
     left: 0px;
     top: 0px;
     width: 100%;
