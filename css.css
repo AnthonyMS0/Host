@@ -1,22 +1,22 @@
 
 h1.hello{
-	text-align: center;
-	color: white;
-	border-radius: 10px;
+     text-align: center;
+     color: white;
+     border-radius: 10px;
 	
 }
 img.logo{
-	display: block;
-	margin: auto;
-	height: 200;
-	width: 200;
+    display: block;
+    margin: auto;
+    height: 200;
+    width: 200;
 }
 body{
-	background-image: url("C:\Users\User\Downloads\webgif.gif");
-	background-color: black;
+    background-image: url("C:\Users\User\Downloads\webgif.gif");
+    background-color: black;
 }
 .bot1{
-	position: absolute;
+    position: absolute;
     top: 3%;
     right: 95.5%;
     font-size: 20px;
@@ -26,7 +26,7 @@ body{
     background-color: lightblue;
 }
 .bot2{
-	position: absolute;
+    position: absolute;
     top: 3%;
     right: 89.5%;
     font-size: 20px;
@@ -37,7 +37,7 @@ body{
 
 }
 .loader{
-	position: fixed;
+    position: fixed;
     left: 0px;
     top: 0px;
     width: 100%;
@@ -47,13 +47,13 @@ body{
     opacity: .8;
 }
 .copyright{
-	width: 100%;
-	height: 28px;
-	border-top: 1px solid #E0E0E0;
-	position: absolute;
-	bottom: 0px; 
-	left: 0px; 
-	text-align: center; 
+    width: 100%;
+    height: 28px;
+    border-top: 1px solid #E0E0E0;
+    position: absolute;
+    bottom: 0px; 
+    left: 0px; 
+    text-align: center; 
 }
 .code{
 	
