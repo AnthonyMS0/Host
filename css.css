@@ -26,7 +26,7 @@ body{
     background-color: lightblue;
 }
 .bot2{
-	position: absolute;
+    position: absolute;
     top: 3%;
     right: 89.5%;
     font-size: 20px;
@@ -37,7 +37,7 @@ body{
 
 }
 .loader{
-	position: fixed;
+    position: fixed;
     left: 0px;
     top: 0px;
     width: 100%;
