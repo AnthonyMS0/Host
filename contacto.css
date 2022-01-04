@@ -3,7 +3,7 @@ body{
 }
 
 .bot1{
-	position: absolute;
+    position: absolute;
     top: 50%;
     right: 50%;
     font-size: 25px;
@@ -14,7 +14,7 @@ body{
 }
 
 .bot2{
-	position: absolute;
+    position: absolute;
     top: 50%;
     right: 44.5%;
     font-size: 25px;
@@ -25,7 +25,7 @@ body{
 
 }
 .bot3{
-	position: absolute;
+    position: absolute;
     top: 50%;
     right: 39%;
     font-size: 25px;
@@ -36,7 +36,7 @@ body{
 }
 
 .bot4{
-	position: absolute;
+    position: absolute;
     top: 50%;
     right: 57.5%;
     font-size: 25px;
