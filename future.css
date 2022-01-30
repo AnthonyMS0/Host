@@ -1,0 +1,16 @@
+body{
+	background-image: url(img/bg.jpg);
+}
+
+table{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 30%;
+}
+
+tr,td{
+	border-collapse: collapse;
+	border-color: black;
+	text-align: left;
+	border: 1px solid black;
+}
