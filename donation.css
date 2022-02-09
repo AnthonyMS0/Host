@@ -1,0 +1,16 @@
+body{
+	background-image: url(img/bg.jpg);
+	background-repeat: repeat;
+	text-align: center;
+	
+}
+.home{
+	font-size: 37px;
+}
+.ini{
+	font-size: 34px;
+	display: block;
+	padding-top: 5px;
+	padding-right: 11px;
+
+
