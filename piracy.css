@@ -1,0 +1,19 @@
+body{
+	background-image: url("img/bg.jpg");
+}
+.title{
+	text-align: center;
+}
+.blabla{
+	text-align: center;
+	font-size: 20px;
+}
+.pera{
+	text-align: center;
+	font-size: 35px;
+}
+.meme{
+	display: block;
+	padding-left: 780px;
+	border-image: !important;
+}

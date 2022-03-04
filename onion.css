@@ -1,0 +1,8 @@
+body{
+	background-image: url(img/bg.jpg);
+	background-repeat: repeat;
+	margin-left: 30px;
+}
+.oni{
+	font-size: 25px;
+}
