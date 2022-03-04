@@ -1,0 +1,19 @@
+body{
+	background-image: url("img/bg.jpg");
+}
+
+.p{
+	text-align: left;
+	padding-left: 23px;
+	font-size: 21px;
+	padding-top: 80px;
+}
+
+table{
+	width: 100%;
+	border: 1px solid black;
+	text-align: center;
+}
+td{
+	font-size: 21px;
+}

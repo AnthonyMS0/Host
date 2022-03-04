@@ -1,0 +1,22 @@
+body{
+	background-image: url("img/bg.jpg");
+	background-repeat: repeat;
+	margin-left: 20px;
+	padding-top: 12px;
+	text-align: left;
+}
+.home{
+	font-size: 36px;
+}
+.ini{
+	vertical-align: middle;
+	max-width: 150%;
+	font-size: 34px;
+	display: block;
+	padding-right: 11px;
+	padding-top: 12px;
+}
+
+.lub{
+	font-size: 20px;
+}
